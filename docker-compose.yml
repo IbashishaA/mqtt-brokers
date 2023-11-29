@@ -1,0 +1,57 @@
+version: "3"
+
+services:
+  mosquitto-1.6.5:
+    container_name: mosquitto-1.6.5
+    image: eclipse-mosquitto:1.6.5
+    ports:
+      - "1884:1883"
+      - "9002:9001"
+    volumes:
+      - ./mosquitto-1.6.5/config:/mosquitto/config
+      - ./mosquitto-1.6.5/data:/mosquitto/data
+      # - ./mosquitto-1.6.5/log:/mosquitto/log
+
+  mosquitto-1.6.7:
+    container_name: mosquitto-1.6.7
+    image: eclipse-mosquitto:1.6.7
+    ports:
+      - "1885:1883"
+      - "9003:9001"
+    volumes:
+      - ./mosquitto-1.6.7/config:/mosquitto/config
+      - ./mosquitto-1.6.7/data:/mosquitto/data
+      # - ./mosquitto-1.6.7/log:/mosquitto/log
+
+  mosquitto-1.6.12:
+    container_name: mosquitto-1.6.12
+    image: eclipse-mosquitto:1.6.12
+    ports:
+      - "1886:1883"
+      - "9004:9001"
+    volumes:
+      - ./mosquitto-1.6.12/config:/mosquitto/config
+      - ./mosquitto-1.6.12/data:/mosquitto/data
+      # - ./mosquitto-1.6.12/log:/mosquitto/log
+
+  mosquitto-2.0.10:
+    container_name: mosquitto-2.0.10
+    image: eclipse-mosquitto:2.0.10
+    ports:
+      - "1887:1883"
+      - "9005:9001"
+    volumes:
+      - ./mosquitto-2.0.10/config:/mosquitto/config
+      - ./mosquitto-2.0.10/data:/mosquitto/data
+      # - ./mosquitto-2.0.10/log:/mosquitto/log
+
+  mosquitto-2.0.18:
+    container_name: mosquitto-2.0.18
+    image: eclipse-mosquitto:2.0.18
+    ports:
+      - "1888:1883"
+      - "9006:9001"
+    volumes:
+      - ./mosquitto-2.0.18/config:/mosquitto/config
+      - ./mosquitto-2.0.18/data:/mosquitto/data
+      # - ./mosquitto-2.0.18/log:/mosquitto/log

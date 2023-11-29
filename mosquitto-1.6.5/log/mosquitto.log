@@ -1,0 +1,138 @@
+1701169114: mosquitto version 1.6.5 starting
+1701169114: Config loaded from /mosquitto/config/mosquitto.conf.
+1701169114: Opening ipv4 listen socket on port 1883.
+1701169114: Opening ipv6 listen socket on port 1883.
+1701169114: New connection from 172.22.0.1 on port 1883.
+1701169114: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701153744809 (p2, c1, k10).
+1701170914: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701170914: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701170914: Error: Permission denied.
+1701173051: mosquitto version 1.6.5 terminating
+1701173051: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173051: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173051: Error: Permission denied.
+1701173064: mosquitto version 1.6.5 starting
+1701173064: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173064: Opening ipv4 listen socket on port 1883.
+1701173064: Opening ipv6 listen socket on port 1883.
+1701173065: New connection from 172.22.0.1 on port 1883.
+1701173065: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701153744809 (p2, c1, k10).
+1701173378: mosquitto version 1.6.5 terminating
+1701173378: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173378: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173378: Error: Permission denied.
+1701173384: mosquitto version 1.6.5 starting
+1701173384: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173384: Opening ipv4 listen socket on port 1883.
+1701173384: Opening ipv6 listen socket on port 1883.
+1701173384: New connection from 172.22.0.1 on port 1883.
+1701173384: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701153744809 (p2, c1, k10).
+1701173477: mosquitto version 1.6.5 terminating
+1701173477: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173477: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173477: Error: Permission denied.
+1701173488: mosquitto version 1.6.5 starting
+1701173488: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173488: Opening ipv4 listen socket on port 1883.
+1701173488: Opening ipv6 listen socket on port 1883.
+1701173489: New connection from 172.22.0.1 on port 1883.
+1701173489: Socket error on client <unknown>, disconnecting.
+1701173490: New connection from 172.22.0.1 on port 1883.
+1701173490: Socket error on client <unknown>, disconnecting.
+1701173491: New connection from 172.22.0.1 on port 1883.
+1701173491: Socket error on client <unknown>, disconnecting.
+1701173492: New connection from 172.22.0.1 on port 1883.
+1701173492: Socket error on client <unknown>, disconnecting.
+1701173493: New connection from 172.22.0.1 on port 1883.
+1701173493: Socket error on client <unknown>, disconnecting.
+1701173494: New connection from 172.22.0.1 on port 1883.
+1701173494: Socket error on client <unknown>, disconnecting.
+1701173495: New connection from 172.22.0.1 on port 1883.
+1701173495: Socket error on client <unknown>, disconnecting.
+1701173496: New connection from 172.22.0.1 on port 1883.
+1701173496: Socket error on client <unknown>, disconnecting.
+1701173497: New connection from 172.22.0.1 on port 1883.
+1701173497: Socket error on client <unknown>, disconnecting.
+1701173498: New connection from 172.22.0.1 on port 1883.
+1701173498: Socket error on client <unknown>, disconnecting.
+1701173499: New connection from 172.22.0.1 on port 1883.
+1701173499: Socket error on client <unknown>, disconnecting.
+1701173500: New connection from 172.22.0.1 on port 1883.
+1701173500: Socket error on client <unknown>, disconnecting.
+1701173501: New connection from 172.22.0.1 on port 1883.
+1701173501: Socket error on client <unknown>, disconnecting.
+1701173502: New connection from 172.22.0.1 on port 1883.
+1701173502: Socket error on client <unknown>, disconnecting.
+1701173503: New connection from 172.22.0.1 on port 1883.
+1701173503: Socket error on client <unknown>, disconnecting.
+1701173504: New connection from 172.22.0.1 on port 1883.
+1701173504: Socket error on client <unknown>, disconnecting.
+1701173504: New connection from 172.22.0.1 on port 1883.
+1701173504: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701173558: mosquitto version 1.6.5 terminating
+1701173558: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173558: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173558: Error: Permission denied.
+1701173564: mosquitto version 1.6.5 starting
+1701173564: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173564: Opening ipv4 listen socket on port 1883.
+1701173564: Opening ipv6 listen socket on port 1883.
+1701173564: New connection from 172.22.0.1 on port 1883.
+1701173564: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701173637: mosquitto version 1.6.5 terminating
+1701173637: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173637: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173637: Error: Permission denied.
+1701173647: mosquitto version 1.6.5 starting
+1701173647: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173647: Opening ipv4 listen socket on port 1883.
+1701173647: Opening ipv6 listen socket on port 1883.
+1701173647: New connection from 172.22.0.1 on port 1883.
+1701173647: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701173728: mosquitto version 1.6.5 terminating
+1701173728: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173728: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173728: Error: Permission denied.
+1701173734: mosquitto version 1.6.5 starting
+1701173734: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173734: Opening ipv4 listen socket on port 1883.
+1701173734: Opening ipv6 listen socket on port 1883.
+1701173734: New connection from 172.22.0.1 on port 1883.
+1701173734: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701173833: mosquitto version 1.6.5 terminating
+1701173833: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173833: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173833: Error: Permission denied.
+1701173839: mosquitto version 1.6.5 starting
+1701173839: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173839: Opening ipv4 listen socket on port 1883.
+1701173839: Opening ipv6 listen socket on port 1883.
+1701173839: New connection from 172.22.0.1 on port 1883.
+1701173839: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701173903: mosquitto version 1.6.5 terminating
+1701173903: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701173903: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701173903: Error: Permission denied.
+1701173907: mosquitto version 1.6.5 starting
+1701173907: Config loaded from /mosquitto/config/mosquitto.conf.
+1701173907: Opening ipv4 listen socket on port 1883.
+1701173907: Opening ipv6 listen socket on port 1883.
+1701173908: New connection from 172.22.0.1 on port 1883.
+1701173908: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701173504544 (p2, c1, k10, u'sonicbolt').
+1701175708: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701175708: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701175708: Error: Permission denied.
+1701175820: mosquitto version 1.6.5 terminating
+1701175820: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701175820: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701175820: Error: Permission denied.
+1701238307: mosquitto version 1.6.5 starting
+1701238307: Config loaded from /mosquitto/config/mosquitto.conf.
+1701238307: Opening ipv4 listen socket on port 1883.
+1701238307: Opening ipv6 listen socket on port 1883.
+1701238440: New connection from 172.22.0.1 on port 1883.
+1701238440: New client connected from 172.22.0.1 as ec65e400-4060-46e5-8fd2-c3d6a002c7311701238440166 (p2, c1, k10, u'sonicbolt').
+1701239196: mosquitto version 1.6.5 terminating
+1701239196: Saving in-memory database to /mosquitto/data/mosquitto.db.
+1701239196: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
+1701239196: Error: Permission denied.
