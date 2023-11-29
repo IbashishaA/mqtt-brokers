@@ -136,3 +136,4 @@
 1701239196: Saving in-memory database to /mosquitto/data/mosquitto.db.
 1701239196: Error saving in-memory database, unable to open /mosquitto/data/mosquitto.db.new for writing.
 1701239196: Error: Permission denied.
+1701249692: Error: Permission denied.

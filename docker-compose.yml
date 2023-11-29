@@ -10,7 +10,7 @@ services:
     volumes:
       - ./mosquitto-1.6.5/config:/mosquitto/config
       - ./mosquitto-1.6.5/data:/mosquitto/data
-      # - ./mosquitto-1.6.5/log:/mosquitto/log
+      - ./mosquitto-1.6.5/log:/mosquitto/log
 
   mosquitto-1.6.7:
     container_name: mosquitto-1.6.7
@@ -21,7 +21,7 @@ services:
     volumes:
       - ./mosquitto-1.6.7/config:/mosquitto/config
       - ./mosquitto-1.6.7/data:/mosquitto/data
-      # - ./mosquitto-1.6.7/log:/mosquitto/log
+      - ./mosquitto-1.6.7/log:/mosquitto/log
 
   mosquitto-1.6.12:
     container_name: mosquitto-1.6.12
@@ -32,7 +32,7 @@ services:
     volumes:
       - ./mosquitto-1.6.12/config:/mosquitto/config
       - ./mosquitto-1.6.12/data:/mosquitto/data
-      # - ./mosquitto-1.6.12/log:/mosquitto/log
+      - ./mosquitto-1.6.12/log:/mosquitto/log
 
   mosquitto-2.0.10:
     container_name: mosquitto-2.0.10
@@ -43,7 +43,7 @@ services:
     volumes:
       - ./mosquitto-2.0.10/config:/mosquitto/config
       - ./mosquitto-2.0.10/data:/mosquitto/data
-      # - ./mosquitto-2.0.10/log:/mosquitto/log
+      - ./mosquitto-2.0.10/log:/mosquitto/log
 
   mosquitto-2.0.18:
     container_name: mosquitto-2.0.18
@@ -54,4 +54,9 @@ services:
     volumes:
       - ./mosquitto-2.0.18/config:/mosquitto/config
       - ./mosquitto-2.0.18/data:/mosquitto/data
-      # - ./mosquitto-2.0.18/log:/mosquitto/log
+      - ./mosquitto-2.0.18/log:/mosquitto/log
+
+volumes:
+  config:
+  data:
+  log:
